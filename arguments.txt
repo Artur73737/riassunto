@@ -1,0 +1,118 @@
+LISTA ARGOMENTI TRATTATI - Tutte le foto trascritte (OCR + lettura completa)
+Cartella: 11 immagini - Libro: Com'e fatta la cellula (A68-A86)
+================================================================================
+
+A. INQUADRAMENTO GENERALE
+1. A - COM'E FATTA LA CELLULA (pag. A68, copertina capitolo 3)
+2. VIDEO Umani procarioti - domande: cellula eucariote piu frequente nel corpo umano, dove sono piu procarioti, principali eucariote e percentuali
+3. ARTICOLO Manuale di evoluzione per aspiranti eucarioti - David e Buzz Baum, teoria endosimbiontica, tappe evoluzione secondo Baum, Lynn Margulis, podcast 100 secondi
+4. TIMELINE Cosa sono e come sono fatte le cellule - Micrografia, identificazione nucleo, primo microscopio elettronico, 6 eventi scientifici/non scientifici legati allo studio delle cellule
+5. Dati in Agenda, Active Learning, STORIA, OMICS
+
+B. LEZIONE 1 - LE CARATTERISTICHE COMUNI A TUTTE LE CELLULE
+6. Dimensioni che ottimizzano il rapporto tra superficie e volume
+7. Membrana a mosaico fluido
+8. Lipidi di membrana: soprattutto fosfolipidi e colesterolo
+9. Proteine integrali e periferiche
+10. Carboidrati di membrana: glicolipidi e glicoproteine
+11. Il rapporto tra superficie e volume delle cellule (par. 1)
+12. Robert Hooke 1665-1703, 125.971.200.000 cellule in 5 cm2 di sughero
+13. Diametro 1-100 micrometri, volume 1-1000 micrometri cubi
+14. Eccezioni: uova uccelli/uovo struzzo 25 cm, alghe unicellulari visibili, neuroni, calamaro gigante (1 mm x 1 m)
+15. Volume = livello funzionalita/attivita chimica; superficie = quantita sostanze scambiate
+16. Figura 1 La scala della vita (scala logaritmica): atomo, piccole molecole, lipide, proteina, fago T4, batteri, cellule animali/vegetali, cloroplasto, uovo rana, sequoia, colibri, neonato, balenottera; microscopio elettronico/ottico/occhio umano; 1-100 um; micrometro/micron = 10^-6 m, lettera greca mu
+17. Figura 2 Cubi e sfere: cubo 1/2/4 mm (6/24/96 mm2, 1/8/64 mm3, 6:1/3:1/1,5:1); sfere diametro 1/2/3 mm (3,14/12,56/28,26 mm2, 0,52/4,19/14,18 mm3, 6:1/3:1/2:1); 4 pi r2, 4/3 pi r3
+18. Perche le cellule sono piccole; perche organismi grandi = molte cellule piccole (60.000 miliardi nel corpo umano); distribuzione sostanze; attivita chimica vs superficie
+19. RICORDA rapporto superficie/volume
+
+C. LEZIONE 2 - LE CARATTERISTICHE DELLE CELLULE PROCARIOTE
+20. Struttura di base comune (par. 6) + poche strutture specializzate (par. 7)
+21. La cellula procariote e piu semplice dell'eucariote; procarioti organismi piu numerosi
+22. Membrana plasmatica: doppio strato fosfolipidi, barriera semipermeabile, omeostasi chimico-fisica
+23. Citoplasma semifluido: citosol + particelle insolubili; citosol soluzione acquosa ioni/micro/macromolecole
+24. Nucleoide: DNA circolare unico, istruzioni per proteine/strutture (ciglia/flagelli)/metabolismo
+25. Ribosomi 25 nm: RNA + proteine, sintesi proteica, amminoacidi > polipeptidi
+26. Citoplasma dinamico: proteina attraversa cellula in 1 minuto, collisioni, ritmo biochimico
+27. Complessita funzionale procarioti: migliaia reazioni/istante
+28. Figura 10 Pseudomonas aeruginosa: capsula, citoplasma, ribosomi, nucleoide, membrana plasmatica, flagello, parete (peptidoglicano, membrana esterna assente in alcuni), 200 nm
+29. Etimologia Ribosoma: soma = corpo + ribo = RNA
+30. Video cellula procariote in 3D
+
+D. STRUTTURE SPECIALIZZATE PROCARIOTE (par. 7, pag. A76)
+31. Parete cellulare e capsula batterica (Figura 11 streptococco): peptidoglicano, sostegno/forma, capsula polisaccaridica, difesa da sistema immunitario/essiccamento/adesione, non vitale
+32. Membrane interne: cianobatteri fotosintetici, ripiegamenti membrana plasmatica, ampie superfici, evento evolutivo
+33. Flagelli e pili (Figura 12): flagelli cavatappi contrattili rotanti, movimento in acqua; pili corti numerosi, adesione, scambio genetico, parassitismo
+34. Citoscheletro procariote: filamenti proteici, divisione/forma 3D, anche nei procarioti (ex solo eucarioti, vedi Lez. 7)
+35. Esercizi: citosol fluido/solido, parete esterna/interna, area DNA, forma procarioti, mappa ribosoma/nucleo a fumetti
+
+E. LEZIONE 3 - LE CARATTERISTICHE DELLE CELLULE EUCARIOTE
+36. Suddivisione in compartimenti (par. 8), nucleo con DNA + nucleolo (par. 9), ribosomi per sintesi proteine (par. 10)
+37. Membrana plasmatica + citoplasma + ribosomi + DNA come procarioti, ma interno piu complesso
+38. Organuli con enzimi specifici; enzimi = catalizzatori biologici specifici (1 enzima = 1 reazione = 1 reagente), struttura 3D, reazioni compartimentate
+39. Microscopio elettronico e frazionamento cellulare per densita (Figura 13): omogeneizzazione, 500 g 10 min pellet nucleare, 10.000 g 20 min pellet mitocondriale, 100.000 g 1 h pellet reticolo endoplasmatico, citoplasma proteine solubili
+40. Organuli universali: nucleo/DNA, RER, Golgi, mitocondri, vacuoli; specifici: cloroplasti (vegetali), lisosomi (animali) - Figura 14
+41. Membrane organuli (fosfolipidi + proteine): 1) separano biomolecole, 2) regolano scambi materie prime/prodotti/vescicole a destinazione specifica
+42. Par. 14 Strutture cellule eucariote animale vs vegetale (pag. A78): foto TEM quasi identiche; animali = centrioli + lisosomi; vegetali = parete cellulosa + cloroplasti; comuni = resto; didascalie complete cellula animale (ribosomi liberi/RER, membrana, REL, nucleo/cromatina, mitocondri centrali energetiche, citoscheletro, centrioli divisione, RER sintesi, lisosomi degradazione) e vegetale (REL modifiche, vacuolo riserva acqua, Golgi, ribosomi, nucleolo/nucleo, RER, mitocondrio, cloroplasti fotosintesi, plasmodesmi, perossisoma, membrana, parete)
+
+F. IL NUCLEO E L'INFORMAZIONE GENETICA (par. 9)
+43. Nucleo animale ~5 um > molte procariote; replicazione DNA; controllo genetico; nucleolo = montaggio ribosomi da RNA + proteine
+44. Involucro nucleare doppia membrana + ~3500 pori nucleari 9 nm, spazio 10-20 nm, comunicazione nucleo-citoplasma, continuita con RE
+45. Traffico selettivo: ioni/piccole molecole liberi; proteine con sequenza segnale amminoacidica, poro si dilata
+46. DNA lineare multiplo specie-specifico + proteine = cromatina fibrosa (Figura 17A dispersa); pre-divisione = cromosomi compatti visibili (Figura 17B)
+47. Figura 15 nucleo: nucleo/nucleolo/cromatina/poro/membrane/involucro/lamina nucleare, 1 um
+48. Video 16
+
+G. I RIBOSOMI E LA SINTESI DELLE PROTEINE (par. 10)
+49. Ribosomi procarioti sempre liberi; eucarioti liberi/RER/mitocondri/cloroplasti; 2 subunita; eucarioti piu grandi/ricchi RNA; rRNA + 50+ proteine, assemblati nel nucleo, escono dai pori (Figura 18A TEM porpora/nucleo, blu/mRNA rosa, verde/proteine)
+50. Traduzione: mRNA messaggero nucleo>citoplasma, ribosomi leggono e costruiscono polipeptidi (Figura 18B)
+51. Rispondi/Scegli/Ora tocca a te: organuli eucarioti, struttura/funzioni nucleo, cromatina vs cromosomi, microscopio ottico/elettronico, mRNA/ribosomiale, area assemblaggio ribosomi, mappa fumetti DNA/ribosoma
+
+H. LEZIONE 4 - IL SISTEMA DELLE MEMBRANE INTERNE
+52. RER 11 + REL 12 + Golgi 13 + lisosomi 14 + perossisomi/vacuoli 15; Video 19
+53. RE: rete tubuli/sacchetti, lume separato (Video 19 Fig. 20), fino 10% volume, superficie multipla; RER granuloso con ribosomi vs REL tubolare senza
+54. RER sintetizza membrane + proteine, separa/modifica chimicamente; proteine secrezione/extracitosol/altri organuli/Golgi; ripiegamento terziaria nel lume (Figura 20 TEM bidimensionale vs 3D, nucleo/lume/ribosomi 0,5 um)
+55. Glicoproteine: catene carboidrati, vescicole trasporto RER>esterno; indirizzamento enzimi lisosomiali (distruttivi, da confinare); RER esteso in ghiandolari/globuli bianchi anticorpi
+56. Box fegato/farmaci: REL epatico esteso (Figura A TEM 2 cellule, nucleo verde chiaro, linee blu RE, mitocondri verdi, glicogeno marrone); glicogeno/zuccheri sangue, neutralizzazione barbiturici/sedativi/antibiotici, ipertrofia REL ad alte dosi, mancata distinzione molecole simili = tolleranza crociata
+57. REL (par. 12): 1) sintesi lipidi (acidi grassi/fosfolipidi/steroidi, ovaie/testicoli ormoni steroidei), 2) detossificazione tossici/farmaci/pesticidi, 3) idrolisi glicogeno>glucosio, 4) stoccaggio Ca2+ (muscoli: impulso > Ca citosol > contrazione)
+58. RICORDA RER = ribosomi/proteine in uscita; REL = no ribosomi/lipidi/detoss/glicogeno/calcio
+
+I. L'APPARATO DI GOLGI (par. 13, A84)
+59. Camillo Golgi Nobel Medicina 1906, specie-specifico, sacchetti impilati + vescicole (Figura 21 Video 22), sacchetti non comunicanti
+60. 3 funzioni: riceve/elabora da RER; concentra/confeziona/smista dentro/fuori; polisaccaridi parete vegetali
+61. 3 zone cisterne: ingresso (nucleo/RER) / intermedia / uscita (membrana); traffico glicoproteine etichettate zona>zona; uscita = deposito/secrezione/vescicole/membrana/altri organuli/lisosomi
+62. Etichette Figura 21: nucleo/citosol/regioni cis-mediale-trans/cisterna/lume/membrana/lisosoma/proteine dentro/fuori/esterno/0,5 um
+
+J. I LISOSOMI, FAGOCITOSI, AUTOFAGIA (par. 14)
+63. Lisosoma vescicola singola ~1 um + dozzina enzimi (Figura 23/22), centinaia/cellula; origine RE + Golgi; compartimentazione = enzimi isolati anti-autodigestione
+64. Idrolisi macromolecole > monomeri a pH acido; substrati esterni via fagocitosi
+65. Fagocitosi: introflessione > tasca > vescicola > fusione lisosoma = secondario > digestione > diffusione prodotti > esocitosi residuo (Figura 22: primario/secondario/fagosoma/cibo/Golgi/dentro/fuori/membrana/1 um)
+66. Batteri/virus nei globuli bianchi; autofagia organuli vecchi/danneggiati > riciclo; vegetali = grosso vacuolo centrale digestivo
+67. Etimologia liso = demolire; RICORDA degradazione via fagocitosi
+
+K. I PEROSSISOMI E I VACUOLI (par. 15, A86)
+68. Perossisomi (Figura 24 cristallo romboidale 0,25 um): granulari, demoliscono perossidi/acqua ossigenata, quasi tutte eucarioti
+69. Vacuoli (Figura 25 grande vegetale maturo + piccoli 2 um): membrana + soluzione acquosa; accumulo tossici/scarto; sostegno (>90% volume, turgore acqua); digestione (mais/fagioli proteolisi seme per embrione); riproduzione (pigmenti blu/rossi petali/frutti attraggono impollinatori/dispersori)
+70. Esercizi: perossisomi/vacuoli detoss, autofagia, differenze RER/REL, funzioni Golgi/lisosomi, disegno sistema membrane 2 colori + proteina dentro/fuori, enzima digestivo lisosomiale
+
+L. LEZIONE 5 - GLI ORGANULI CHE TRASFORMANO L'ENERGIA
+71. Cloroplasti via fotosintesi 16; mitocondri via respirazione 17
+72. Cloroplasti (par. 16, Figura 26 mais TEM 0,5 um / 75 um foglia): solo vegetali/alcuni protisti; plastidi vari; clorofilla verde; luce > chimica (glucosio/nutrimento, fonte maggior parte viventi); doppia membrana + DNA circolare + proteine importate; tilacoidi appiattiti > grani/pile + stroma con DNA/ribosomi; foglie; cromoplasti rossi/arancioni/gialli fiori/frutti; leucoplasti amido/lipidi (amido/lipidoplasti) in radici/parti non foto; cap. 7 membrane tilacoidi
+73. Mitocondri (par. 17, Figura 28 0,6 um): nutrienti (glucosio) citosol > demolizione finale > ATP; ATP = moneta energetica (adenina + ribosio C5 + 3 fosfati; idrolisi > ADP + P + energia discreta significativa ma non troppa per 1) attivare reazioni 2) risintesi facile); consumo O2 = respirazione; <1,5 um x 2-8 um come batteri (Video 27); numero 1 gigante protisti a centinaia migliaia uovo, >1000 fegato, molti se molta energia
+74. Doppia membrana: esterna liscia protettiva permeabile; interna ripiegata > superficie > creste a mensola regolari (Figura 28: membrana esterna/creste/matrice/interna/spazio intermembrana); complessi proteici respirazione; controllo interno = sintesi ATP
+75. Matrice: DNA + ribosomi + enzimi; DNA circolare batterico-simile > endosimbiosi Lezione 9; non da zero ma da embrione/uovo > origine materna > divisione come batteri
+76. Box STRANO MA VERO Ladri di cloroplasti / cleptoplastia = furto cloroplasti per energia/batterie ricaricabili con luce (Figura A TEM verde fotosintesi; B Sacoglossa verde su alga trattiene clorofilla/mimetismo, pochi giorni-10 mesi poi rimangia; dinoflagellati predatori via alga>protozoo>dinoflagellato; ciliati trattengono nuclei criptomonadi Geminigera per riparare; simbiosi zooxantelle>polipi/coralli fino 90% energia; foglie autunnali rosse/gialle/arancioni scheda 500 battute)
+77. Rispondi/Scegli: dove sono/funzioni cloroplasti, cos'e/forma/funzione ATP, com'e/funzione mitocondrio, creste/grani, stroma/tilacoidi, respirazione cloroplasti/mitocondri, ATP/DNA
+
+M. LEZIONE 6 - IL CITOSCHELETRO, CIGLIA E FLAGELLI
+78. Citoscheletro = microfilamenti 18 + microtubuli 20 + intermedi 19 > anche ciglia/flagelli 21; Video 29 citosol/citoscheletro
+79. Microfilamenti actina globulare 7 nm x micron: muscoli actina-miosina contrattili; singoli/fasci/reti/monomeri (Figura 30A 7 nm/20 um); 1) movimento cellula/parti/pseudopodi (falso piede greco, locomozione) 2) forma/reticolo sotto membrana/microvilli intestinali assorbimento
+80. Filamenti intermedi 50+ varianti robuste corda 8-12 nm stabili (Figura 30B 10 um): ancorano organuli/nucleo, resistenza trazione/adesione/desmosomi pelle; proteine fibrose
+81. Microtubuli tubulina cilindri cavi 25 nm x micron (Figura 31 fluorescenza gialli/connettivo/viola nucleo; Figura 30C dimero alfa/beta 25 nm/10 um): 1) scheletro rigido 2) binari proteine motrici ATP/chinesina > organuli/cromosomi/divisione 3) ciglia/flagelli; allungamento/accorciamento subunita
+82. Ciglia/flagelli frusta acquosa (Figura 32 bronchi muco A / spermatozoi B): microtubuli stessa struttura, ciglia 5 um corte numerose vs flagelli 100-200 um soli/coppie; flagello = frusta latina battente
+83. Rispondi/Scegli/Cerca: cos'e/forma citoscheletro, differenze ciglia/flagelli, actina/miosina, pseudopodi/flagelli movimento, chinesina-microtubuli-funzioni
+
+N. BOX APPROFONDIMENTO
+84. NO ERO Cellule giganti dagli abissi: Fossa Marianne >10.000 m, Xenophyophores >10 cm (Figura A braccio meccanico), Scripps/California San Diego, simbiosi pluricellulari interni, fagocitosi particelle/metalli pesanti Pb/U/Hg tossici, adattamento estremo, tutti bacini ma poco noti, multinucleati giganti, fragilissimi/campioni rovinati/ciclo vitale
+85. Tutte le didascalie figure, scale (nm/um/mm/cm/m/km), marchi GUARDA!/Video/LEARNING/Ora tocca a te/Rispondi/Scegli/RICORDA, pagine A68-A86, A3/A69/A70/A75-A81/A84
+
+Fonti: OCR_grezzo_rapidocr.txt (dump RapidOCR 11 file, 1781 righe) + lettura visiva integrale foto in Trascrizione_completa.txt

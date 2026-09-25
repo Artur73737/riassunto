@@ -1,0 +1,537 @@
+TRASCRIZIONE COMPLETA - Tutte le foto della cartella
+Corso di biologia - Com'e fatta la cellula
+OCR locale illimitato (RapidOCR) + trascrizione integrale verificata dalle immagini
+11 file immagine trascritti integralmente, senza omissioni
+================================================================================
+
+================================================================================
+PAGINA 1 - File: WhatsApp Image 2026-09-25 at 21.28.10 (1).jpeg [pag. A70]
+================================================================================
+
+[Margine sinistro parzialmente tagliato - testo visibile:]
+2 le cellule piccole?
+[oggetto di forma cubica / sferica, aumentare dimensioni ... cresce ... damente ... superficie.]
+
+3 L'apparato di Golgi
+...ell'apparato di Golgi ...pritore Camillo Go... varia da specie a sp... un insieme di sacch... piccole vescicole circo... [Video 22]. A differenz... oplasmatico, i sacch... loro. L'apparato di G... proteine dal RER e le... ra, confeziona e smist... iate alle loro destinaz...
+... i polisaccaridi per ...
+...ell'apparato di Golg... unzione: una zona <<di... RER, una zona inter...
+
+[Parte centrale-alta - Figura 2: rapporto superficie/volume]
+
+A Cubi
+L'area superficiale e piu grande rispetto al volume.
+- cubo di 1 mm
+Area superficiale: 6 lati x 1 quadrato = 6 mm quadrati
+Volume: 1 cubo = 1 mm cubo
+Rapporto area superficiale/volume: 6:1
+- cubo di 2 mm
+Area superficiale: 6 lati x 2 quadrato = 24 mm quadrati
+Volume: 2 cubo = 8 mm cubi
+Rapporto area superficiale/volume: 3:1
+- cubo di 4 mm
+Area superficiale: 6 lati x 4 quadrato = 96 mm quadrati
+Volume: 4 cubo = 64 mm cubi
+Rapporto area superficiale/volume: 1,5:1
+L'area superficiale e piu piccola rispetto al volume.
+
+B Sfere
+In una sfera la superficie aumenta in proporzione al quadrato del raggio, mentre il volume aumenta proporzionalmente al cubo del raggio.
+Diametro: 1 mm / 2 mm / 3 mm
+Area superficiale 4 x pi greco x r quadrato: 3,14 mm quadrati / 12,56 mm quadrati / 28,26 mm quadrati
+Volume 4/3 x pi greco x r cubo: 0,52 mm cubi / 4,19 mm cubi / 14,18 mm cubi
+Rapporto area superficiale/volume: 6:1 / 3:1 / 2:1
+
+[Testo principale:]
+cellula puo scambiare con l'esterno (cioe i nutrienti e le molecole che vengono prelevati dall'ambiente esterno e tutti i prodotti di scarto dell'attivita cellulare interna che sono riversati poi all'esterno).
+
+Secondo le leggi della geometria, il rapporto superficie/volume di un oggetto cambia se questo aumenta le sue dimensioni: al crescere delle dimensioni di un oggetto, infatti, il suo volume aumenta piu rapidamente della sua superficie (Figura 2). Tale fenomeno e importante per due ragioni:
+1. se una cellula vivente cresce e diventa piu grande, la sua attivita chimica aumenta piu velocemente della sua superficie;
+2. le cellule devono distribuire le sostanze da un punto all'altro; cio avviene piu facilmente se la cellula e piccola.
+
+Questo spiega perche gli organismi grandi devono essere composti da molte cellule piccole: le dimensioni delle cellule infatti devono essere tali da conservare un volume interno ottimale e un rapporto abbastanza elevato tra superficie e volume. L'ampia superficie esterna costituita dalla miriade di cellule di un organismo pluricellulare (il corpo umano ha circa 60 000 miliardi di cellule) consente di svolgere al meglio le molteplici funzioni necessarie alla sua sopravvivenza. Per poter funzionare, quindi, le cellule devono mantenere un rapporto abbastanza elevato tra la superficie e il volume; per questo gli organismi sono formati da tante cellule piccole, piuttosto che da poche cellule enormi.
+
+RICORDA: Le dimensioni delle cellule mantengono un adeguato rapporto tra superficie e volume.
+
+[Box: NO ERO - Cellule giganti dagli abissi]
+
+A piu di 10 000 metri di profondita vivono giganteschi organismi unicellulari. Negli ambienti marini della Fossa delle Marianne, a piu di [10 000] metri di profondita, sono stati scoperti i [piu gran]di protozoi esistenti: questi organismi [singol]ari raggiungono un diametro superiore ai [10 cm] (Figura A).
+[Que]sti <<giganti unicellulari>> fanno parte dei [Xenoph]yophores e sono stati individuati per la [prima v]olta cosi in profondita da un gruppo di [ricercat]ori della Scripps Institution of Oceanography [dell'Uni]versita della California, a San Diego. Le [dimens]ioni di questi protozoi sono talmente [grandi] che consentono di ospitare al loro interno [altri or]ganismi viventi pluricellulari, in un rapporto di simbiosi che procura reciproci vantaggi. Inoltre gli Xenophyophores inglobano al loro interno, attraverso un processo chiamato fagocitosi, particelle in sospensione nell'acqua: in particolare riescono a concentrare nella loro cellula grandi quantita di metalli pesanti come piombo, uranio e mercurio, che sarebbero altamente tossici per altre forme di vita.
+
+Come la maggior parte degli organismi che vivono nelle profondita marine, anche questi protozoi si sono adattati a condizioni estreme, in ambienti che hanno molto poco da offrire.
+
+Il gruppo degli Xenophyophores e una parte importante del fondale marino molto profondo, infatti questi organismi sono stati trovati, a profondita minori, in tutti i principali bacini oceanici. Tuttavia, finora si sa poco della loro biologia e del loro ruolo ecologico negli ecosistemi marini: per esempio, pur essendo organismi unicellulari, curiosamente questi protozoi giganti possiedono molti nuclei. Attualmente riuscire a studiarli e un'impresa tutt'altro che semplice! Oltre a dover raggiungere profondita abissali e necessario fare i conti con un'altra loro caratteristica: sono organismi estremamente fragili; pertanto i campioni portati in superficie inevitabilmente risultano rovinati e poco utili per lo studio del loro ciclo vitale.
+
+Figura A: I protozoi Xenophyophores sono costituiti da un'unica cellula che puo superare i 10 cm di diametro.
+
+A70
+
+================================================================================
+PAGINA 2 - File: WhatsApp Image 2026-09-25 at 21.28.10 (2).jpeg [pag. A84-A85]
+Doppia pagina: sopra par. 13 L'apparato di Golgi, sotto par. 14 I lisosomi, la fagocitosi e l'autofagia
+================================================================================
+
+[Pagina superiore - 13 L'apparato di Golgi]
+
+GUARDA! Video 22 L'apparato di Golgi
+
+Figura 21 L'apparato di Golgi.
+Le vescicole contenenti proteine provenienti dal reticolo endoplasmatico raggiungono le cisterne dell'apparato di Golgi.
+L'apparato di Golgi modifica chimicamente le proteine all'interno delle proprie cisterne... e le <<indirizza>> alle destinazioni corrette.
+Etichette figura: Nucleo / Citosol / Regione cis / Regione mediale / Regione trans / Cisterna / Lume / Membrana plasmatica / Lisosoma / Proteine destinate a essere utilizzate dentro la cellula / Proteine destinate a essere utilizzate fuori dalla cellula / Esterno della cellula / L'apparato di Golgi elabora e impacchetta le proteine. / 0,5 micrometri.
+
+L'aspetto dell'apparato di Golgi (cosi chiamato dal nome del suo scopritore Camillo Golgi, Nobel per la Medicina nel 1906) varia da specie a specie; spesso, tuttavia, appare come un insieme di sacchetti impilati gli uni sugli altri e di piccole vescicole circondate da una membrana (Figura 21, Video 22). A differenza di quanto avviene nel reticolo endoplasmatico, i sacchetti non sono in comunicazione tra loro. L'apparato di Golgi svolge tre funzioni:
+1. riceve le proteine dal RER e le elabora ulteriormente;
+2. concentra, confeziona e smista le proteine prima che siano inviate alle loro destinazioni finali, dentro o fuori la cellula;
+3. sintetizza i polisaccaridi per la parete delle cellule vegetali.
+
+Le cisterne dell'apparato di Golgi possiedono tre zone distinte per funzione: una zona <<di ingresso>> piu vicina al nucleo e al RER, una zona intermedia e una zona di uscita che si trova vicino alla membrana plasmatica.
+
+Il lato di ingresso dell'apparato di Golgi e quello a cui giungono le vescicole di trasporto provenienti dal RER. Per esempio, riceve vescicole contenenti glicoproteine; l'apparato di Golgi le modifica chimicamente contrassegnandole in base alla loro destinazione finale. Le molecole passano poi da un sacchetto all'altro della zona intermedia fino a un sacchetto all'altro della zona di uscita. Il lato di uscita dell'apparato di Golgi serve invece da deposito; da qui i prodotti finiti e destinati alla secrezione, impacchettati nelle vescicole, si spostano verso la membrana plasmatica per essere espulsi. In alternativa, i prodotti finiti possono diventare parte della membrana stessa o delle membrane di altri organuli, per esempio i lisosomi.
+
+RICORDA: L'apparato di Golgi riceve e modifica le proteine sintetizzate dal reticolo endoplasmatico ruvido, etichettandole in base alla loro destinazione.
+
+A84
+
+[Pagina inferiore - 14 I lisosomi, la fagocitosi e l'autofagia]
+
+Figura 22 I lisosomi.
+Questi organuli, grazie ai loro enzimi digestivi, digeriscono i materiali assunti dalla cellula per fagocitosi e le sostanze di scarto.
+Etichette: Lisosoma primario / Lisosoma secondario / Fagosoma / Particella di cibo assunta per fagocitosi / Apparato di Golgi / Il lisosoma primario viene generato dall'apparato di Golgi / Interno della cellula / Esterno della cellula / Membrana plasmatica / Fagosoma / Lisosoma secondario / Il lisosoma si fonde con un fagosoma / Le piccole molecole generate dalla digestione diffondono nel citoplasma / Il materiale non digerito e rilasciato all'esterno / 1 micrometro / Particella di cibo / Lisosoma derivato dall'apparato di Golgi.
+
+I lisosomi sono un altro componente del sistema di membrane. Il lisosoma e una singola vescicola del diametro di circa 1 micrometro, circondata da una singola membrana e contenente dozzine di enzimi digestivi (Figura 23). Una cellula puo contenere centinaia di lisosomi, a seconda delle proprie necessita.
+La formazione dei lisosomi avviene a opera del RE e dell'apparato di Golgi: dapprima il RE assembla gli enzimi e le membrane, quindi l'apparato di Golgi li finisce e li impacchetta. Questi organuli mettono in evidenza un'importante caratteristica strutturale delle cellule: la suddivisione in compartimenti. La membrana lisosomiale infatti racchiude uno specifico compartimento in cui gli enzimi digestivi sono mantenuti isolati dal resto del citoplasma; se fosse priva di lisosomi, una cellula non potrebbe contenere enzimi attivi senza correre il rischio di digerire se stessa.
+
+Nei lisosomi le macromolecole (proteine, polisaccaridi, acidi nucleici e lipidi) vengono idrolizzate e scisse nei rispettivi monomeri. Queste reazioni sono facilitate dall'acidita presente all'interno del lisosoma, dove il pH e piu basso che nel citoplasma. I materiali su cui i lisosomi agiscono possono avere diverse origini; per esempio possono essere sostanze nutritive provenienti dall'ambiente esterno, che sono entrate nella cellula grazie a un processo detto fagocitosi.
+
+Durante la fagocitosi, nella membrana citoplasmatica si forma un'introflessione che diventa sempre piu profonda fino a circondare le sostanze nutritive che si trovano all'esterno. La tasca diventa poi una piccola vescicola che si stacca dalla membrana e si sposta nel citoplasma fino a raggiungere un lisosoma: qui la vescicola e il lisosoma si fondono formando un lisosoma secondario, all'interno del quale avviene la digestione. I prodotti della digestione attraversano per diffusione la membrana lisosomiale, fornendo le materie prime per altri processi cellulari. In seguito, il lisosoma secondario con la membrana plasmatica si fonde e versa all'esterno il contenuto non digerito.
+
+Un'altra importante funzione dei lisosomi e la distruzione di batteri e virus: i globuli bianchi, per esempio, inglobano i batteri dentro i vacuoli, dove sono riversati gli enzimi lisosomiali che distruggono le pareti batteriche.
+
+I lisosomi sono anche il luogo in cui la cellula digerisce i propri materiali per autofagia. L'autofagia ha luogo quando un organulo vecchio o danneggiato viene inglobato e digerito, rendendo disponibili le sue molecole per la costruzione di nuovi organuli. A differenza delle cellule animali, le cellule vegetali non possiedono lisosomi, ma hanno un grosso vacuolo centrale con molti enzimi digestivi, che potrebbe svolgere lo stesso ruolo.
+
+RICORDA: Nei lisosomi ha luogo la degradazione delle sostanze nutritive o dei corpi estranei assunti dalla cellula tramite la fagocitosi.
+
+Nota etimologica: Lisosoma deriva dal greco e significa <<corpo in grado di demolire>>.
+
+[Margine destro verticale parziale:]
+...oto al microscopio elettronico ...mostra ... le cellule del fegato ... (in verde) ... [glico]geno, in ... [amm]asso ... [strutture] ... [numerose] ... [linee blu] ... [nucleo]. Sono ... [in verde chiaro] ... [due cellule] ... [altri] ...
+...altri ...
+
+================================================================================
+PAGINA 3 - File: WhatsApp Image 2026-09-25 at 21.28.10 (3).jpeg [pag. A86 + Lezione 5]
+Doppia pagina: sopra par. 15 I perossisomi e i vacuoli, sotto Lezione 5 Gli organuli che trasformano l'energia
+================================================================================
+
+[Pagina superiore - 15 I perossisomi e i vacuoli]
+
+Figura 24 Un perossisoma.
+Un cristallo di un enzima a forma romboidale riempie quasi l'intero perossisoma di una foglia. Enzima / 0,25 micrometri / Perossisoma.
+
+Figura 25 I vacuoli.
+Il grande vacuolo e tipico di una cellula vegetale matura. Vacuoli piu piccoli sono visibili vicino alle estremita della cellula. Vacuolo / 2 micrometri.
+
+Oltre ai lisosomi, le cellule eucariote possono contenere anche altri organuli circondati da una membrana singola. I perossisomi sono piccoli organuli (Figura 24), con un interno granulare contenente speciali enzimi capaci di demolire i perossidi tossici come l'acqua ossigenata, un sottoprodotto di alcune reazioni cellulari. Quasi tutte le cellule eucariote possono saltuariamente contenere perossisomi.
+
+Molte cellule eucariote, soprattutto quelle di piante e protisti, contengono anche vacuoli circondati da una membrana e pieni di soluzioni acquose contenenti molte sostanze disciolte (Figura 25). I vacuoli dei vegetali possono svolgere varie funzioni:
+- Accumulo: le cellule vegetali producono un certo numero di sottoprodotti tossici e di prodotti di scarto; molti dei quali sono semplicemente accumulati.
+- Sostegno: in molte cellule vegetali piu del 90% del volume cellulare e occupato da enormi vacuoli che [sostengono la cellula].
+- [all'interno dei vacuoli.]
+
+Box domande a lato (A86):
+... cosa servono i lisosomi?
+... cosa differenziano il reticolo plasmatico liscio e il reticolo plasmatico ruvido? Quali compiti ... funzioni svolge l'apparato di Golgi? ... nella cellula?
+
+Scegli le parole:
+1. I perossisomi / vacuoli demoliscono i sottoprodotti tossici di alcune reazioni che avvengono nella cellula.
+2. [Il processo grazie al quale la cellula digerisce gli organuli vecchi o danneggiati e detto ...]
+
+RICORDA: Nei perossisomi si accumulano e sono inattivati alcuni sottoprodotti tossici del metabolismo.
+
+I vacuoli delle cellule vegetali hanno funzioni di deposito, strutturale o digestiva.
+- Digestione: nei semi di mais e fagioli certi vacuoli contengono enzimi che idrolizzano le proteine del seme scindendole in monomeri utilizzabili come alimento dall'embrione in via di sviluppo.
+- Riproduzione: alcuni pigmenti (soprattutto blu e rossi) contenuti nei vacuoli presenti nei petali e nei frutti delle angiosperme sono segnali visivi che servono ad attirare gli animali che favoriscono l'impollinazione o la dispersione del seme.
+- Sostegno: [l'elevata concentrazione] di sostanze disciolte causa l'ingresso di acqua nel vacuolo facendolo gonfiare come un palloncino [rigonfio che preme sulla parete e sostiene la pianta].
+
+Ora tocca a te - LEARNING:
+Disegna schematicamente il sistema di membrane di una cellula, dal nucleo alla membrana esterna. Indica con due colori membrana esterna, ... che deve essere utilizzata dentro alla cellula e ... differenti percorsi effettuati da una proteina ... [testo verticale].
+
+[Pagina inferiore - LEZIONE 5 GLI ORGANULI CHE TRASFORMANO L'ENERGIA: I CLOROPLASTI E I MITOCONDRI]
+
+L'energia nelle cellule:
+- cloroplasti, attraverso la fotosintesi 16
+- mitocondri, attraverso la respirazione cellulare 17
+
+16 I cloroplasti sono la sede della fotosintesi
+I cloroplasti sono organuli presenti soltanto nelle cellule vegetali e di alcuni protisti. Esistono svariati tipi di plastidi, ciascuno con una propria funzione; i piu importanti sono i cloroplasti (Figura 26).
+I cloroplasti contengono il pigmento verde clorofilla e sono la sede della fotosintesi: il processo che converte l'energia della luce solare nell'energia chimica dei legami tra gli atomi. Le molecole formate dalla fotosintesi, come il glucosio, forniscono il nutrimento all'organismo fotosintetico e agli altri organismi che se ne cibano. In maniera diretta o indiretta, la fotosintesi e la fonte di energia per la maggior parte degli esseri viventi.
+I cloroplasti possono variare per dimensione e per forma. Sono circondati da una doppia membrana e possiedono al loro interno una molecola di DNA circolare che contiene le informazioni per produrre RNA e alcune proteine specifiche del cloroplasto; le altre proteine sono importate dal citoplasma.
+Oltre alla doppia membrana esterna, i cloroplasti possiedono una serie di membrane interne che hanno l'aspetto di una pila di sacchetti discoidali. Queste pile, dette grani, sono formate da una serie di sacchetti appiattiti, i tilacoidi, addossati l'uno all'altro. Come vedremo nel capitolo 7, le membrane dei tilacoidi contengono clorofilla e altri pigmenti che catturano la luce del Sole in energia chimica.
+(C) i cloroplasti sono concentrati nelle cellule delle foglie.
+Altri tipi di plastidi svolgono funzioni diverse: i cromoplasti contengono pigmenti rossi, arancioni e/o gialli e conferiscono il colore ai fiori e ai frutti; i leucoplasti sono usati per l'accumulo di amidi (amidoplasti) e di lipidi (lipidoplasti) e sono presenti principalmente nelle parti non fotosintetiche della pianta, come le radici.
+Il liquido in cui si trovano sospesi i grani si chiama stroma e contiene DNA e ribosomi utilizzati per sintetizzare alcune delle proteine che costituiscono il cloroplasto.
+Figura 26 I cloroplasti (A) Questa microfotografia elettronica mostra un cloroplasto di una foglia di mais. I cloroplasti sono piu grandi dei mitocondri e contengono una rete estesa di membrane fotosintetiche; (B) tilacoidi; (C) i cloroplasti sono concentrati nelle cellule delle foglie. 0,5 micrometri / 75 micrometri.
+Etichette: Membrana esterna / Membrana interna / Tilacoide / Stroma / Grano (pila di tilacoidi) / Cellula della foglia / Cloroplasti / Membrana esterna / Membrana interna.
+[La foto al microscopio elettronico a destra mostra una sezione di due cellule del fegato ... nucleo in alto ... verde chiaro ... linee blu ... glicogeno ...]
+
+RICORDA: I cloroplasti sono gli organuli dove ha luogo la fotosintesi.
+
+A3 | Com'e fatta la cellula | A81 [indicazione piede pagina]
+
+================================================================================
+PAGINA 4 - File: WhatsApp Image 2026-09-25 at 21.28.10.jpeg [Lezione 2 + pag. A75]
+================================================================================
+
+[Margine sinistro parziale: apparato di Golgi / fagosoma / lisosoma - didascalie figure precedenti]
+
+LEZIONE 2
+LE CARATTERISTICHE DELLE CELLULE PROCARIOTE
+
+La cellula procariote:
+- presenta una struttura di base comune 6
+- possiede poche strutture specializzate 7
+
+Figura 10 Una cellula procariote.
+Il batterio Pseudomonas aeruginosa illustra la tipica struttura propria di tutte le cellule procariote. Questo batterio e anche dotato di una membrana esterna protettiva, posseduta da alcune specie di procarioti (ma non da tutte). Anche il flagello e la capsula si trovano solo in alcune specie.
+Etichette figura: Capsula / Citoplasma / Ribosomi / Nucleoide / Membrana plasmatica / Flagello / Parete cellulare: Peptidoglicano, Membrana esterna (assente in alcuni batteri) / Membrana plasmatica / 200 nm.
+
+6 La cellula procariote e piu semplice della cellula eucariote
+Tutti i procarioti, che sono gli organismi piu numerosi sulla Terra, sono formati da una cellula procariote con la stessa struttura di base, salvo alcune strutture specializzate dovute all'adattamento a condizioni di vita particolari (Figura 10):
+1. La cellula procariote e delimitata da una membrana detta membrana plasmatica, composta da un doppio strato di molecole di fosfolipidi. La membrana plasmatica permette alla cellula di mantenere costanti le caratteristiche chimico-fisiche del suo ambiente interno e agisce da barriera semipermeabile, impedendo ad alcune sostanze di attraversarla e permettendo ad altre di entrare e uscire dalla cellula.
+2. All'interno della membrana plasmatica si trova il citoplasma, un materiale semifluido in cui avvengono tutte le reazioni cellulari. Il citoplasma e composto da due parti: il citosol, che e la parte piu fluida, e le particelle insolubili sospese in esso, fra le quali i ribosomi, di cui parleremo tra poco. Il citosol e una soluzione acquosa contenente ioni, micromolecole e macromolecole solubili, come certe proteine.
+3. In una zona particolare del citoplasma, chiamata nucleoide, si trova il DNA sotto forma di un'unica molecola circolare. Il DNA fornisce le informazioni per costruire tutte le proteine necessarie sia alla costruzione di nuove strutture cellulari (come ciglia o flagelli), sia all'adempimento di tutte le funzioni metaboliche della cellula.
+4. Nel citoplasma sono sempre presenti i ribosomi, aggregati di RNA e proteine del diametro di 25 nm. I ribosomi sono le strutture dove ha luogo la sintesi proteica: qui le informazioni provenienti dal DNA sono usate per assemblare gli amminoacidi e formare catene di polipeptidi.
+Il citoplasma non e un comparto statico; al contrario, le molecole in esso contenute sono in costante movimento. Per esempio, una proteina puo attraversare tutta la cellula in un minuto, e lungo il percorso puo entrare in collisione con molte altre molecole. Questo movimento contribuisce ad assicurare che le reazioni biochimiche avvengano a un ritmo sufficiente per mantenere in vita la cellula.
+Infatti, pur avendo una struttura piuttosto semplice, le cellule dei procarioti sono funzionalmente complesse, in quanto compiono ogni istante migliaia di reazioni.
+
+RICORDA: Le cellule procariote possiedono una struttura di base comune: una membrana che racchiude il citoplasma, all'interno del quale si trova il nucleoide.
+
+Box laterale: Ribosoma deriva dal greco soma, <<corpo>>, preceduto dal prefisso ribo, che richiama l'RNA per indicare un corpuscolo contenente questo acido nucleico.
+
+Video: La cellula procariote in 3D.
+
+A3 | Com'e fatta la cellula | A75
+
+
+================================================================================
+PAGINA 5 - File: WhatsApp Image 2026-09-25 at 21.28.11 (1).jpeg [Lezione 6 - Il citoscheletro, le ciglia e i flagelli]
+================================================================================
+
+LEZIONE 6
+IL CITOSCHELETRO, LE CIGLIA E I FLAGELLI
+
+Il citoscheletro cellulare:
+- e costituito da: microfilamenti 18 / microtubuli 20 / filamenti intermedi 19
+- che possono formare anche ciglia e flagelli 21
+
+GUARDA! Video 29 Il citosol e il citoscheletro
+
+18 I microfilamenti e la forma della cellula
+Il citoscheletro eucariote e formato da tre tipi di fibre: i microfilamenti (che hanno il diametro minore), i filamenti intermedi e i microtubuli (quelli di diametro maggiore) (Video 29).
+I microfilamenti sono polimeri costituiti da molecole di una proteina globulare chiamata actina: hanno tipicamente un diametro di circa 7 nm e possono essere lunghi molti micrometri.
+Nelle cellule animali l'actina svolge numerose funzioni. Per esempio, la contrazione delle cellule muscolari dipende dall'interazione tra i filamenti di actina e un'altra proteina, la proteina motrice miosina.
+I microfilamenti possono rimanere filamenti singoli, radunarsi in fasci oppure organizzarsi in reti; inoltre possono scomparire riassemblandosi in monomeri liberi di actina (Figura 30A).
+Le funzioni principali dei microfilamenti di actina sono due:
+1. contribuiscono al movimento di tutta la cellula o di alcune sue parti: per esempio, essi partecipano alla formazione delle espansioni cellulari chiamate pseudopodi, che conferiscono ad alcune cellule la capacita di muoversi;
+Box: pseudopodi deriva dal greco e significa <<falso piede>>; il termine rende l'idea del fatto che queste espansioni sono usate per la locomozione, come se fossero un piede.
+2. determinano e mantengono la forma della cellula formando un reticolo al di sotto della membrana plasmatica: per esempio, sono proprio i microfilamenti che sostengono i sottili microvilli che tappezzano l'intestino umano, ampliandone la superficie utile per l'assorbimento dei nutrienti.
+
+RICORDA: I microfilamenti sono formati da unita ripetute della proteina contrattile actina; mantengono la forma della cellula e sono responsabili del movimento.
+
+Figura 30 Il citoscheletro.
+Le immagini mostrano la stessa cellula, trattata con composti fluorescenti che rivelano (A) i microfilamenti, (B) i filamenti intermedi, (C) i microtubuli.
+A Microfilamenti: Sono costituiti da filamenti della proteina actina. Insieme ai filamenti di miosina, determinano la contrazione muscolare. Sono costituiti da proteine fibrose organizzate in forma di fune. Monomero di actina / 7 nm / 20 micrometri.
+B Filamenti intermedi: Aiutano a tenere unite due cellule vicine. Stabilizzano la forma della cellula. Sono costituiti da molte molecole della proteina fibrosa. Subunita fibrosa / 8-12 nm / 10 micrometri.
+C Microtubuli: Sono costituiti da molecole della proteina tubulina. Si allungano e si accorciano in seguito all'aggiunta o alla perdita di subunita di tubulina: l'accorciamento sposta i cromosomi durante la divisione cellulare. Fungono da binari per il movimento delle vescicole, responsabili del movimento. Monomero di alfa-tubulina / Monomero di beta-tubulina / Dimero di tubulina / 25 nm / 10 micrometri / Estremita.
+
+19 I filamenti intermedi
+Esistono almeno 50 varianti diverse di filamenti intermedi, molti dei quali specifici di pochi tipi cellulari. Tutti i filamenti intermedi pero condividono la stessa struttura generale: sono composti da proteine fibrose che si riuniscono in strutture robuste a forma di corda del diametro di 8-12 nm (Figura 30B). In genere sono piu stabili dei microfilamenti e dei microtubuli, perche non vengono disgregati e riformati di continuo. I filamenti intermedi svolgono due importanti funzioni:
+1. Ancorano al loro posto le strutture cellulari. Per esempio, in alcune cellule i filamenti intermedi si irradiano dal nucleo verso la periferia per mantenere la posizione del nucleo all'interno della cellula.
+2. Aiutano la cellula a resistere alla tensione e contribuiscono all'adesione tra cellule vicine. Questa funzione e fondamentale soprattutto nelle cellule della pelle, dove i filamenti intermedi formano <<punti di saldatura>> tra cellule vicine detti desmosomi.
+
+RICORDA: I filamenti intermedi sono costituiti da proteine fibrose; rafforzano la struttura della cellula.
+
+20 I microtubuli e la tubulina
+I microtubuli sono cilindri non ramificati, cavi, del diametro di 25 nm e lunghi fino a svariati micron (Figura 31). Nella cellula essi svolgono tre ruoli:
+1. Formano uno scheletro interno rigido.
+2. Servono da binari per le proteine motrici, speciali molecole che utilizzano energia dell'ATP per cambiare forma e spostarsi. Le proteine motrici, trasportando organuli e altri materiali da una parte all'altra della cellula, si muovono lungo i microtubuli come le ciglia e i flagelli, e sono fondamentali per assicurare la distribuzione dei cromosomi durante la divisione cellulare.
+3. I microtubuli sono strettamente associati ad appendici cellulari mobili come ciglia e flagelli.
+I microtubuli sono il risultato del montaggio di molecole di una proteina chiamata tubulina.
+Figura 31 I microtubuli.
+Questa fotografia realizzata con la tecnica della microscopia a fluorescenza mostra i microtubuli (colorati in giallo) di due cellule del tessuto connettivo. Il nucleo appare di color porpora.
+RICORDA: I microtubuli, costituiti da tubulina, formano uno scheletro interno rigido.
+
+21 Le ciglia e i flagelli
+Molte cellule eucariote possiedono anche ciglia e flagelli. Queste strutture a forma di frusta possono sospingere o trascinare la cellula in ambiente acquoso, oppure possono far scorrere il liquido circostante lungo la superficie della cellula.
+Sia le ciglia sia i flagelli eucarioti sono costituiti da microtubuli e presentano la stessa struttura interna, anche se sono diversi per lunghezza e per tipo di battito: le ciglia (Figura 32A), che misurano solo 5 micrometri, sono piu corte dei flagelli e di solito sono presenti in gran numero. I flagelli eucarioti sono lunghi da 100 a 200 micrometri e di solito si trovano da soli o in coppia (Figura 32B).
+RICORDA: Le ciglia e i flagelli sono appendici mobili della cellula, costituite da microtubuli.
+Figura 32 Le strutture per il movimento.
+Le cellule che rivestono la superficie dei bronchi sono dotate di ciglia che spingono il muco verso l'esterno (A). Gli spermatozoi sono dotati di un lungo flagello (B).
+Box: Flagello deriva dal latino flagellum che significa <<frusta>>; il termine rende l'idea del movimento battente di questo organulo.
+
+Rispondi:
+1. Che cos'e il citoscheletro e da quali fibre e formato?
+2. Quali sono le principali differenze tra ciglia e flagelli?
+Scegli le parole:
+1. I microfilamenti sono formati da actina / miosina.
+2. Gli pseudopodi / I flagelli sono espansioni cellulari con funzione di movimento.
+Ora tocca a te: Cerca in Rete informazioni e video sulla proteina chinesina e spiega che rapporto ha con i microtubuli e che funzioni svolge all'interno della cellula.
+
+================================================================================
+PAGINA 6 - File: WhatsApp Image 2026-09-25 at 21.28.11 (2).jpeg [pag. A80-A81 - Il nucleo e ribosomi]
+================================================================================
+
+GUARDA! Video 16 10 I ribosomi e la sintesi delle proteine / Il nucleo e l'informazione genetica
+
+9 Il nucleo e l'informazione genetica
+Nelle cellule animali il nucleo (Figura 15) ha un diametro di circa 5 micrometri, sensibilmente maggiore del diametro di molte cellule procariote. Il nucleo svolge varie funzioni (Video 16):
+- e il luogo in cui avviene la replicazione del DNA;
+- e la sede del controllo genetico dell'attivita cellulare: contiene una zona, il nucleolo, dove ha inizio il montaggio dei ribosomi a partire dall'RNA e da specifiche proteine.
+Il nucleo e avvolto da una doppia membrana che costituisce l'involucro nucleare. Attraverso l'involucro nucleare si verifica un traffico di macromolecole sia in entrata sia in uscita. Le due membrane dell'involucro nucleare sono separate da uno spazio spesso 10-20 nm e sono perforate da circa 3500 pori nucleari del diametro di 9 nm circa, che mettono in comunicazione l'interno del nucleo con il citoplasma.
+Gli ioni e le molecole piu piccole possono transitare liberamente attraverso i pori nucleari. Tra le molecole piu grandi, invece, solo alcune proteine sono in grado di passare dal citoplasma (dove vengono sintetizzate) al nucleo. Queste proteine presentano brevi sequenze <<segnale>> fatte di amminoacidi che funzionano come un'etichetta di riconoscimento per il poro nucleare, che si dilata e le lascia passare.
+In certi punti, la membrana esterna dell'involucro nucleare forma delle anse che si protendono nel citoplasma ed e in continuita con la membrana di un altro organulo, il reticolo endoplasmatico.
+All'interno del nucleo sono presenti diverse molecole di DNA in numero caratteristico a seconda della specie. Le molecole di DNA hanno forma lineare e sono associate a proteine con cui formano un complesso fibroso, composto da fili estremamente lunghi e sottili, detto cromatina (Figura 17A). Poco prima della divisione cellulare la cromatina si addensa in strutture compatte e visibili al microscopio dette cromosomi (Figura 17B).
+RICORDA: Il nucleo contiene il DNA, la molecola che conserva le informazioni genetiche della cellula. E circondato da una doppia membrana interrotta da pori che permettono il passaggio di varie molecole.
+
+Figura 15 Il nucleo.
+L'involucro nucleare (costituito da due membrane), il nucleolo e i pori nucleari sono strutture comuni a tutte le cellule. Etichette: Nucleo / Nucleolo / Cromatina / Poro nucleare / Membrana esterna in continuita con il reticolo endoplasmatico / Membrana interna / Involucro nucleare / Poro nucleare / Involucro nucleare / Cromatina / Nucleolo / 1 micrometro. Didascalia: L'involucro nucleare e i pori nucleari sono strutture comuni a tutte le cellule. / L'involucro nucleare e in continuita con il reticolo endoplasmatico.
+
+10 I ribosomi e la sintesi delle proteine
+Abbiamo visto che nelle cellule procariote i ribosomi si trovano sempre liberi nel citoplasma. Nelle cellule eucariote invece i ribosomi possono trovarsi in diverse posizioni: liberi nel citoplasma, oppure fissati alla superficie del reticolo endoplasmatico, oppure all'interno dei mitocondri e dei cloroplasti.
+Sia i ribosomi dei procarioti sia quelli degli eucarioti sono composti da due subunita di dimensioni diverse; i ribosomi eucarioti pero sono piu grandi e piu ricchi di RNA di quelli procarioti. Pur sembrando piccoli se confrontati con la cellula che li contiene, i ribosomi eucarioti sono complessi enormi, composti da un tipo speciale di RNA detto RNA ribosomiale (rRNA) al quale sono legate oltre 50 diverse proteine; essi vengono assemblati nel nucleo e passano nel citoplasma attraverso i pori nucleari (Figura 18A).
+In qualunque posizione si trovino, i ribosomi hanno il compito di sintetizzare le proteine in base alle informazioni codificate nel DNA. Questo processo, chiamato traduzione, e possibile grazie a un messaggero che trasporta l'informazione dal nucleo (dove si trova il DNA) al citoplasma, dove si trovano i ribosomi: l'RNA messaggero o mRNA ha il compito di trasferire l'informazione contenuta nel DNA. Durante la traduzione, i ribosomi si legano all'mRNA e costruiscono le catene polipeptidiche leggendo le istruzioni in esso contenute (Figura 18B).
+
+Figura 17 La cromatina e i cromosomi.
+(A) Quando una cellula non e in fase di divisione, il DNA nucleare si trova associato a proteine per formare la cromatina, che e dispersa in tutto il nucleo. (B) In una cellula che si sta dividendo, la cromatina e impacchettata in corpi densi chiamati cromosomi. Etichette: Nucleo / La cromatina densa (scura) e attaccata alla lamina nucleare / La cromatina diffusa (chiara) e dispersa nel nucleo / 1 micrometro.
+
+Figura 18 I ribosomi.
+(A) In questa fotografia al TEM, i ribosomi (in porpora) passano dal nucleo (in alto a sinistra) attraverso i pori dell'involucro nucleare e arrivano nel citoplasma (in basso a destra). In questa immagine i ribosomi (in blu) sono attaccati a un filamento di mRNA (in rosa). Dai ribosomi fuoriescono proteine in formazione (in verde).
+
+Rispondi:
+1. Che cosa sono gli organuli cellulari e quali sono normalmente presenti nelle cellule eucariote?
+2. Qual e la struttura del nucleo e quali funzioni svolge?
+3. Che cosa e la cromatina e perche e diversa dai cromosomi?
+Scegli le parole:
+1. Gli organuli sono chiaramente visibili al microscopio ottico / elettronico.
+2. L'RNA messaggero / ribosomiale trasferisce l'informazione presente nel DNA dal nucleo al citoplasma.
+3. Il ... e un'area del nucleo in cui avviene l'assemblaggio dei ribosomi.
+RICORDA: I ribosomi sono le strutture dove avviene la traduzione, o sintesi delle proteine, secondo le direttive degli acidi nucleici.
+Ora tocca a te: Immagina di dover dare istruzioni a un ribosoma su come deve compiere il suo lavoro. Disegna la mappa semplificata di un nucleo in una cellula e indica con delle frecce i movimenti del DNA e del ribosoma e riassumi utilizzando dei fumetti i principali compiti che deve svolgere.
+
+A80 / A81 Com'e fatta la cellula
+
+================================================================================
+PAGINA 7 - File: WhatsApp Image 2026-09-25 at 21.28.11 (3).jpeg [Lezione 4 - Il sistema delle membrane interne]
+================================================================================
+
+LEZIONE 4
+IL SISTEMA DELLE MEMBRANE INTERNE
+Il sistema cellulare di membrane interne comprende:
+- il reticolo endoplasmatico ruvido o RER 11 / il reticolo endoplasmatico liscio o REL 12
+- l'apparato di Golgi 13 / i lisosomi 14 / i perossisomi e i vacuoli 15
+
+GUARDA! Video 19 Il reticolo plasmatico
+
+11 Il reticolo endoplasmatico ruvido
+Nelle cellule eucariote c'e una rete di membrane interne connesse che occupa gran parte del citoplasma e forma tubuli e sacchetti appiattiti. L'insieme di queste membrane prende il nome di reticolo endoplasmatico (RE). Lo spazio interno del RE, che e separato dal citoplasma circostante, si chiama lume (Video 19, Figura 20). Il RE puo racchiudere fino al 10% del volume interno della cellula, e i suoi ripiegamenti producono una superficie molte volte superiore a quella della membrana plasmatica. Alcune regioni del reticolo endoplasmatico sono costellate di ribosomi che aderiscono temporaneamente alla faccia esterna delle sue membrane. A causa dell'aspetto granuloso che assume al microscopio questa parte del reticolo e detta reticolo endoplasmatico ruvido (RER). Altre parti del reticolo endoplasmatico, invece, sono prive di ribosomi e prendono il nome di reticolo endoplasmatico liscio (REL).
+Il reticolo endoplasmatico ruvido sintetizza membrane e proteine. Inoltre, tiene separate dal citoplasma le proteine appena sintetizzate e le modifica dal punto di vista chimico. In particolare, i ribosomi addossati al RER sono la sede della sintesi delle proteine di secrezione destinate a svolgere la loro funzione fuori dal citosol, e il RER produce anche proteine destinate ad altri organuli, come per esempio all'apparato di Golgi. A mano a mano che sono sintetizzate, queste proteine entrano nel lume del RER dove vanno incontro a una serie di modifiche, come il ripiegamento nella struttura terziaria della catena polipeptidica.
+Figura 20 Il reticolo endoplasmatico.
+La fotografia al TEM mostra una sezione bidimensionale delle strutture tridimensionali rappresentate nel disegno. Nelle cellule viventi le membrane del RE non hanno mai estremita aperte: infatti racchiudono un insieme di compartimenti separati dal citoplasma circostante. Etichette: Nucleo / Interno della cellula / Lume / Lume / Ribosomi / 0,5 micrometri. Box: Nel reticolo endoplasmatico liscio (REL) avvengono la sintesi dei lipidi e alcune modifiche chimiche delle proteine.
+RICORDA: La superficie del reticolo endoplasmatico ruvido e costellata di ribosomi; questo organulo sintetizza e modifica chimicamente le proteine che devono uscire dalla cellula.
+All'interno del reticolo, le proteine possono anche subire cambiamenti chimici che ne modificano la funzione e la destinazione finale. Per esempio, alcune proteine acquistano catene di carboidrati, diventando cosi glicoproteine. Quando la glicoproteina e pronta, il reticolo la racchiude in una vescicola di trasporto che si stacca dalla membrana del RER e si dirige all'esterno.
+Nel caso degli enzimi digestivi diretti ai lisosomi, per esempio, il sistema di attribuzione dell'indirizzo e molto importante; gli enzimi lisosomiali infatti sono tra i piu distruttivi che la cellula produca: se non arrivassero alla destinazione corretta, in cui vengono opportunamente confinati, potrebbero distruggere la cellula stessa.
+Le cellule che sintetizzano proteine da esportare in grandi quantita hanno solitamente un RER molto sviluppato: ne sono un esempio le cellule ghiandolari e i globuli bianchi che secernono gli anticorpi.
+[Box: PER SAPERNE DI PIU - Il reticolo endoplasmatico e i farmaci]
+La demolizione dei farmaci avviene nel reticolo endoplasmatico liscio delle cellule del fegato, che per questo motivo e molto esteso (Figura A). Le cellule del fegato degli animali possiedono un reticolo endoplasmatico liscio molto sviluppato: qui alcuni enzimi regolano la demolizione del glicogeno e la quantita di zuccheri liberati nel sangue, mentre altri partecipano alla demolizione nociva. I farmaci neutralizzati da questi enzimi, inclusi i sedativi come i barbiturici, possono essere eliminati. Quando le cellule epatiche sono esposte ad alte dosi di farmaci, esse reagiscono ampliando l'estensione del reticolo liscio in risposta a questo aumento del lavoro. Bisogna ricordare, inoltre, che gli enzimi del REL non sono in grado di distinguere molecole simili tra loro. Di conseguenza, l'aumento di un farmaco puo aumentare la tolleranza ad altri farmaci.
+Figura A La foto al microscopio elettronico a trasmissione mostra due cellule del fegato in sezione. A destra in alto e visibile il nucleo di una delle due cellule colorato in verde chiaro. Le cellule del fegato hanno un reticolo endoplasmatico assai sviluppato (le linee blu sotto al nucleo). Sono visibili anche numerosi mitocondri (in verde) e granuli di glicogeno, in marrone.
+
+12 Il reticolo endoplasmatico liscio
+Il reticolo endoplasmatico liscio (REL) e privo di ribosomi e ha una struttura tubolare del tutto diversa da quella del RER, con il quale comunica (vedi Figura 20). Molte delle sue attivita sono dovute agli enzimi inseriti nella sua membrana. Il REL svolge quattro importanti funzioni:
+1. e la sede della sintesi dei lipidi;
+2. e responsabile della trasformazione chimica di sostanze tossiche, farmaci e pesticidi;
+3. nelle cellule animali, e la sede in cui avviene l'idrolisi del glicogeno per produrre glucosio;
+4. ha il compito di immagazzinare ioni calcio.
+Il REL ha anche la funzione di accumulare ioni calcio (Ca2+). Nel tessuto muscolare, questi ioni sono necessari per la contrazione: quando un impulso nervoso stimola una cellula muscolare, gli ioni calcio passano dal reticolo liscio nel citoplasma, dove determinano la contrazione della cellula.
+[parte] ... dei testicoli sintetizza gli ormoni sessuali steroidei ... La sintesi dei lipidi comprende gli acidi grassi, fosfolipidi e gli steroidi. Ognuno di questi prodotti e sintetizzato da particolari tipi di cellule; nei mammiferi per esempio, il reticolo endoplasmatico liscio delle cellule delle ovaie ...
+RICORDA: Il reticolo endoplasmatico liscio non possiede ribosomi; sintetizza lipidi, degrada le sostanze tossiche, idrolizza il glicogeno e accumula ioni calcio.
+
+================================================================================
+PAGINA 8 - File: WhatsApp Image 2026-09-25 at 21.28.11 (4).jpeg [pag. A76-A77]
+================================================================================
+
+[Pagina superiore - 7 Le strutture specializzate delle cellule procariote]
+
+Figura 11 La parete cellulare e la capsula batterica.
+La parete, in questo streptococco, e circondata da una sottile parete, in verde, all'esterno si trova la capsula, che appare come uno strato scuro e irregolare.
+
+Figura 12 I flagelli dei procarioti.
+I flagelli contribuiscono al movimento delle cellule procariote. Flagelli / Pili.
+
+Nel corso dell'evoluzione alcuni procarioti hanno sviluppato strutture specializzate. Tali strutture comprendono la compartimentazione di alcune reazioni chimiche della membrana plasmatica in una membrana interna e i flagelli per il movimento della cellula nell'ambiente acquatico.
+La parete cellulare e la capsula. Molti procarioti possiedono una parete cellulare esterna alla membrana plasmatica. La rigidita della parete cellulare, costituita da un tipo particolare di carboidrato, il peptidoglicano, fornisce sostegno alla cellula e ne determina la forma. Attorno alla parete cellulare, alcuni batteri presentano un ulteriore rivestimento composto da polisaccaridi e denominato capsula (Figura 11). In alcune specie la capsula serve a proteggere i batteri dagli attacchi del sistema immunitario degli organismi infettati. In altri casi la capsula contribuisce a preservare la cellula dall'essiccamento e aiuta il batterio ad aderire ad altre cellule oppure a un substrato. La capsula, tuttavia, non e vitale: molte specie sopravvivono anche se la perdono.
+Le membrane interne. Alcuni gruppi di batteri, chiamati cianobatteri, sono in grado di svolgere la fotosintesi. In questi batteri la membrana plasmatica si ripiega all'interno del citoplasma formando un sistema di membrane interne contenenti le molecole responsabili della fotosintesi. L'affermarsi della fotosintesi, che comporta la necessita di ampie superfici di membrana, e stato un evento importante nelle prime fasi dell'evoluzione.
+I flagelli e i pili. Numerosi procarioti sono in grado di nuotare usando appendici denominate flagelli (Figura 12) costituiti da proteine capaci di contrazione. Il flagello ha l'aspetto di un piccolo cavatappi che ruota sul proprio asse come un'elica, spingendo avanti la cellula. Se gli Altri procarioti possiedono appendici piu corte e molto piu numerose, che sporgono dalla superficie della cellula. Queste strutture filiformi, chiamate pili, servono a far aderire un batterio a un altro durante gli scambi di materiale genetico, oppure favoriscono l'adesione dei batteri alle cellule animali da cui ricavano protezione o cibo.
+Il citoscheletro. Citoscheletro e un nome generico per definire collettivamente vari tipi di filamenti proteici che hanno un ruolo nella divisione cellulare o nel mantenimento della forma tridimensionale delle cellule. In passato si pensava che soltanto le cellule eucariote avessero un citoscheletro (vedi Lezione 7), ma recentemente i biologi hanno verificato che questa struttura e presente anche tra i procarioti.
+RICORDA: Alcuni procarioti possiedono strutture specializzate come la parete cellulare e la capsula, un sistema di membrane interne e flagelli o pili.
+
+Scegli le parole:
+1. Il citosol e fluido / solido.
+2. La parete cellulare si trova esternamente / internamente alla membrana plasmatica.
+3. L'area del citoplasma che contiene il DNA e ... [nucleoide].
+Domande: Quali sono le principali strutture della cellula procariote? Che cosa e dovuta la forma dei procarioti?
+Ora tocca a te: Immagina di dover dare istruzioni a un ribosoma su come deve compiere il suo lavoro. Disegna la mappa semplificata di un nucleo in una cellula e indica con dei fumetti i compiti che deve svolgere e in quali zone.
+
+A76
+
+[Pagina inferiore - LEZIONE 3 LE CARATTERISTICHE DELLE CELLULE EUCARIOTE]
+
+La cellula eucariote possiede:
+- e suddivisa in compartimenti 8
+- un nucleo, che contiene il DNA e un nucleolo 9
+- i ribosomi per la sintesi delle proteine 10
+
+8 La compartimentazione della cellula eucariote
+Come le cellule procariote, le cellule eucariote sono delimitate dalla membrana plasmatica e contengono citoplasma, ribosomi e DNA; tuttavia hanno una struttura interna piu complessa. Esse infatti sono caratterizzate da compartimenti interni delimitati da membrane, gli organuli, che contengono specifici enzimi.
+Gli enzimi sono catalizzatori biologici, cioe sostanze che accelerano una reazione senza essere modificate in modo permanente dalla reazione stessa. Di solito un enzima catalizza un'unica reazione chimica, legandosi a un solo reagente. Grazie alla specificita degli enzimi derivante dalla loro struttura tridimensionale, ogni organulo puo svolgere particolari reazioni chimiche che non si realizzano in altre parti della cellula.
+Gli organuli e le altre strutture cellulari si possono osservare al microscopio elettronico oppure possono essere studiati dopo averli isolati grazie a un processo chiamato frazionamento cellulare (Figura 13) che li separa in base alla densita.
+Alcuni organuli sono presenti in tutti i tipi di cellule eucariote; tra questi il piu evidente e il nucleo, che contiene una gran parte del materiale genetico (DNA) della cellula. In tutte le cellule eucariote sono presenti anche il reticolo endoplasmatico e l'apparato di Golgi, i mitocondri e i vacuoli. Altri tipi di organuli sono invece caratteristici solo delle cellule vegetali o delle cellule animali: i cloroplasti, per esempio, si trovano solo nelle cellule vegetali, mentre i lisosomi sono presenti solo in quelle animali (Figura 14 a pagina seguente).
+Alcuni organuli sono presenti in tutti i tipi di cellule eucariote, tra questi il piu evidente e il nucleo che contiene gran parte del materiale genetico (DNA) della cellula.
+Tutti gli organuli sono avvolti da una membrana costituita da fosfolipidi e proteine. La membrana svolge due funzioni:
+1. tiene separate le biomolecole dell'organulo dalle altre molecole presenti nella cellula impedendo che reagiscano impropriamente tra loro;
+2. regola gli scambi lasciando entrare nell'organulo le materie prime e liberando i prodotti direttamente nel citoplasma oppure all'interno di vescicole, anch'esse rivestite di membrane, che li dirigono verso la loro destinazione specifica.
+Figura 13 Il frazionamento cellulare.
+Il frazionamento cellulare consente di separare gli organuli in base alla loro densita.
+1. Un pezzettino di tessuto animale viene omogeneizzato.
+2. La centrifugazione fa sedimentare i nuclei come pellet.
+3. La centrifugazione del materiale rimanente (surnatante) a una velocita maggiore fa sedimentare i mitocondri sotto forma di pellet.
+4. La centrifugazione del surnatante a 100 000 g per 1 ora fa sedimentare il reticolo endoplasmatico in pellet.
+Etichette: Omogeneizzatore / Centrifuga a 500 g per 10 minuti / Pellet: frazione nucleare / Surnatante / Centrifuga a 10 000 g per 20 minuti / Pellet: frazione mitocondriale / Surnatante / Centrifuga a 100 000 g per 1 ora / Pellet: frazione del reticolo endoplasmatico / Citoplasma (proteine solubili).
+RICORDA: Nelle cellule eucariote sono presenti compartimenti interni delimitati da membrane chiamati organuli, ognuno dei quali svolge una funzione specifica.
+
+
+================================================================================
+PAGINA 9 - File: WhatsApp Image 2026-09-25 at 21.28.11 (5).jpeg [pag. A68-A69 - Com'e fatta la cellula + Lezione 1]
+================================================================================
+
+[Pagina superiore - A COM'E FATTA LA CELLULA 3]
+
+VIDEO Umani procarioti.
+Guarda il video, poi rispondi alle domande.
+1. Quale tipo di cellula eucariote e piu frequente nel corpo umano?
+2. In quale apparato del corpo umano si trovano piu cellule procariote?
+3. Quali sono le principali cellule eucariote presenti nel nostro corpo e in che percentuale?
+Fai un passo in piu: Vai a pagina A101 e svolgi l'attivita Dati in Agenda. DATI IN AGENDA / ACTIVE LEARNING.
+
+ARTICOLO Manuale di evoluzione per aspiranti eucarioti / OMICS.
+Leggi l'articolo, poi rispondi alle domande.
+1. Che cosa hanno scoperto David e Buzz Baum?
+2. Che cos'e la teoria endosimbiontica?
+3. Quali sono le tappe dell'evoluzione secondo Baum?
+Fai un passo in piu: La teoria endosimbiontica e stata proposta da Lynn Margulis. Registra un podcast di 100 secondi per raccontare la sua storia. ACTIVE LEARNING / STORIA.
+
+TIMELINE Cosa sono e come sono fatte le cellule? / STEM.
+Leggi la linea del tempo, poi rispondi alle domande.
+1. Quando e stato pubblicato Micrografia?
+2. Chi ha identificato il nucleo cellulare?
+3. Quando e stato costruito il primo microscopio elettronico?
+Fai un passo in piu: Aggiungi 6 eventi (3 scientifici e 3 non scientifici) sulla linea del tempo che siano legati allo studio delle cellule. ACTIVE LEARNING.
+
+A68
+
+[Pagina inferiore - LEZIONE 1 LE CARATTERISTICHE COMUNI A TUTTE LE CELLULE]
+
+Tutte le cellule hanno dimensioni che ottimizzano il rapporto tra superficie e volume 1 / possiedono una membrana a <<mosaico fluido>> 2 / costituita da lipidi, soprattutto fosfolipidi e colesterolo 3 / proteine integrali e periferiche 4 / carboidrati, come glicolipidi e glicoproteine 5.
+
+1 Il rapporto tra superficie e volume delle cellule
+Come abbiamo visto, le cellule contengono al loro interno l'acqua e le biomolecole che sono necessarie alla sopravvivenza degli organismi viventi. Ogni cellula contiene almeno 10 000 tipi diversi di molecole, in buona parte presenti in molte copie.
+Nonostante contengano numerosi tipi di molecole, le cellule sono minuscole: nel 1665 Robert Hooke (1635-1703) stimo che in poco piu di 5 centimetri quadrati di sughero [ce ne fossero circa] 125 971 200 000 cellule. Il diametro di una cellula varia da 1 a 100 micrometri, mentre il volume puo variare da 1 micrometro cubo a 1000 micrometri cubi (Figura 1).
+Tuttavia non mancano le eccezioni: le uova degli uccelli sono effettivamente delle singole cellule enormi e l'uovo di struzzo puo misurare fino a 25 cm di diametro. Persino alcuni tipi di alghe unicellulari possono essere visti a occhio nudo. I neuroni (cioe le cellule del sistema nervoso) hanno il volume di una cellula normale, ma presentano sottili prolungamenti che possono estendersi per metri, trasportando i segnali da una parte all'altra di un grosso animale. Nel calamaro gigante questi <<sottili>> prolungamenti cellulari possono raggiungere persino 1 mm di diametro e addirittura 1 m di lunghezza. Tuttavia, questi esempi sono casi molto rari e la quasi totalita delle cellule presenta delle dimensioni molto ridotte. Ma perche e cosi?
+La dimensione delle cellule e limitata dal rapporto tra superficie e volume. Il volume determina il livello di funzionalita di una cellula, cioe la quantita di attivita chimica svolta dalla cellula nell'unita di tempo, mentre la superficie determina la quantita di sostanze che la cellula [puo scambiare].
+La dimensione delle cellule e limitata dal rapporto tra superficie e volume. Il volume determina il livello di funzionalita di una cellula, cioe la quantita di attivita chimica svolta dalla cellula nell'unita di tempo, mentre la superficie determina la quantita di sostanze che la cellula puo scambiare.
+
+Figura 1 La scala della vita.
+Questa scala logaritmica mostra le dimensioni relative delle molecole, delle cellule e degli organismi pluricellulari.
+Elementi scala (da piccolo a grande): Atomo / Piccole molecole / Lipide / Proteina / Fago T4 (virus) / La maggior parte dei batteri / La maggior parte delle cellule di animali e piante / Cloroplasto / Uovo di rana / Sequoia californiana / Colibri / neonato / Balena blu.
+Assi: 0,1 nm / 1 nm / 10 nm / 100 nm / 1 micrometro / 10 micrometri / 100 micrometri / 1 mm / 1 cm / 0,1 m / 1 m / 10 m / 100 m / 1 km. Microscopio elettronico / Microscopio ottico / Occhio umano.
+Nota: Questa scala e logaritmica: ogni unita e 10 volte maggiore di quella che la precede. Per la maggior parte delle cellule il diametro cade nell'intervallo 1-100 micrometri.
+Box: Il micrometro (o micron) e un'unita di misura pari a un milionesimo di metro, cioe 1 micrometro = 10 alla meno 6 metri. Si indica con la lettera greca mu.
+
+A3 | Com'e fatta la cellula | A69
+
+================================================================================
+PAGINA 10 - File: WhatsApp Image 2026-09-25 at 21.28.11 (6).jpeg [pag. A78 - Le strutture delle cellule eucariote]
+================================================================================
+
+a 14 Le strutture delle cellule eucariote
+In fotografie ottenute al microscopio elettronico, molti organuli delle cellule vegetali appaiono quasi identici per forma a quelli osservati nelle cellule animali. Tutte le strutture cellulari specifiche delle cellule vegetali comprendono la parete cellulare e i cloroplasti. Le cellule animali contengono invece i centrioli e i lisosomi, che non si trovano nelle cellule vegetali.
+
+[Figura centrale - cellula animale con etichette:]
+- Ribosomi liberi
+- Membrana plasmatica
+- Reticolo endoplasmatico liscio
+- Ribosomi (legati al RER)
+- Nucleo: il nucleo e il luogo dove si trova la maggior parte del DNA cellulare che, con le proteine a esso associate, costituisce la cromatina
+- Mitocondri sono le centrali energetiche della cellula
+- Il citoscheletro, composto da microtubuli, filamenti intermedi e microfilamenti, sostiene la cellula ed e coinvolto nel movimento della cellula e dei suoi organuli
+- I centrioli sono coinvolti nella divisione cellulare e sono presenti solo nelle cellule animali
+- Il reticolo endoplasmatico ruvido e il sito dove si svolge gran parte della sintesi proteica
+- I lisosomi sono coinvolti nella degradazione delle sostanze nutritive o di scarto; sono presenti solo nelle cellule animali
+
+Legenda colori:
+strutture specifiche delle cellule animali / strutture specifiche delle cellule vegetali / strutture specifiche delle cellule sia animali sia vegetali.
+
+[Figura inferiore - cellula vegetale con etichette:]
+- Una cellula vegetale
+- Le proteine e altre molecole sono modificate chimicamente nel reticolo endoplasmatico liscio
+- Il vacuolo svolge soprattutto funzioni di riserva di acqua
+- L'apparato di Golgi elabora e impacchetta le proteine
+- Ribosomi liberi / Nucleolo / Nucleo / Reticolo endoplasmatico ruvido / Mitocondrio / I cloroplasti utilizzano l'energia solare per produrre carboidrati / Plasmodesmi / Perossisoma / Membrana plasmatica / La parete cellulare e costituita principalmente da cellulosa e sostiene la cellula vegetale
+
+A78
+
+================================================================================
+PAGINA 11 - File: WhatsApp Image 2026-09-25 at 21.28.11.jpeg [17 Nei mitocondri + Ladri di cloroplasti]
+================================================================================
+
+GUARDA! Video 27 I mitocondri
+
+17 Nei mitocondri ha luogo la respirazione cellulare
+Nelle cellule eucariote, la demolizione delle molecole di nutrienti (come il glucosio) inizia nel citoplasma. I composti ottenuti da questa degradazione parziale entrano nei mitocondri e vengono definitivamente demoliti, per produrre molecole di ATP.
+L'ATP, o adenosintrifosfato, e una sorta di <<moneta>> energetica della cellula. Una molecola di ATP e formata dalla base azotata adenina legata a una molecola di ribosio (zucchero a cinque atomi di carbonio) a cui e attaccata una sequenza di tre gruppi fosfato. L'idrolisi di ATP produce una molecola di ADP, uno ione fosfato inorganico (P) ed energia.
+La quantita di energia rilasciata dall'idrolisi dell'ATP deve essere discreta, cioe significativa ma non troppo elevata, per due ragioni:
+1. l'energia deve essere sufficiente da attivare gran parte delle reazioni delle cellule;
+2. la cellula puo sintetizzare con facilita nuove molecole di ATP usando energia prodotta da altre reazioni che richiedono il consumo di ossigeno molecolare: si chiama respirazione cellulare. Tipicamente i mitocondri hanno un diametro che e inferiore a 1,5 micrometri e una lunghezza compresa fra 2 e 8 micrometri, all'incirca le dimensioni di molti batteri (Video 27).
+Il numero di mitocondri per cellula varia dall'unico mitocondrio gigante di alcuni protisti unicellulari a qualche centinaia di migliaia nelle cellule uovo di grosse dimensioni. Una cellula del tuo fegato ne contiene in media piu di un migliaio. Le cellule che hanno bisogno di molta energia chimica tendono a contenere molti mitocondri per unita di volume.
+I mitocondri sono rivestiti da due membrane. La membrana esterna e liscia e svolge una funzione protettiva, ma oppone scarsa resistenza al passaggio delle sostanze in entrata e in uscita dal mitocondrio. Sotto la membrana esterna si trova una membrana interna che si ripiega piu volte su se stessa e che quindi ha una superficie molto maggiore della membrana esterna (Figura 28). I ripiegamenti tendono a essere piuttosto regolari, dando origine a strutture a mensola denominate creste. Sullo spazio da essa delimitato, cio e fondamentale per la sintesi di ATP. Inseriti nella membrana mitocondriale interna si trovano molti complessi proteici che partecipano alla respirazione cellulare.
+La membrana interna esercita un controllo molto maggiore di quella esterna su cio che entra ed esce dallo spazio da essa delimitato, cio e fondamentale per la sintesi di ATP. Inseriti nella membrana mitocondriale interna si trovano molti complessi proteici che partecipano alla respirazione cellulare.
+Figura 28 I mitocondri.
+La microfotografia elettronica e una sezione bidimensionale di un mitocondrio. Come e evidente nel disegno, le creste sono estensioni della membrana mitocondriale interna. Etichette: Mitocondrio / Membrana esterna / Creste / Matrice / Membrana interna / Spazio intermembrana / La membrana interna separa la matrice dallo spazio intermembrana / La matrice contiene ribosomi, DNA e diversi enzimi che partecipano alla respirazione cellulare, fondamentali per la produzione di ATP / Le creste contengono enzimi / 0,6 micrometri.
+RICORDA: I mitocondri sono rivestiti da una doppia membrana; sulla membrana piu interna avvengono le reazioni della respirazione cellulare.
+Lo spazio delimitato dalla membrana interna si chiama matrice mitocondriale. Oltre a numerosi enzimi, nella matrice si trovano DNA e ribosomi. Il DNA mitocondriale contiene le informazioni per produrre alcune delle proteine necessarie alla respirazione cellulare e diversi tipi di RNA. Come quello dei cloroplasti, il DNA del mitocondrio e circolare ed e molto simile a quello batterico; come vedremo nella Lezione 9, questa e una delle ragioni che hanno portato alla teoria dell'endosimbiosi, che attribuisce l'origine di questi organuli a un antico progenitore procariote.
+I mitocondri non si possono formare da zero nella cellula, ma derivano dai mitocondri presenti nell'embrione che a loro volta provengono dalla cellula uovo. Tutti i mitocondri presenti nel tuo corpo, quindi, hanno origine materna, e nel corso del tempo si sono moltiplicati dividendosi come fanno i batteri.
+RICORDA: I mitocondri sono rivestiti da una doppia membrana; sulla membrana piu interna avvengono le reazioni della respirazione cellulare.
+
+[Box STRANO MA VERO - Ladri di cloroplasti]
+Il termine cleptoplastia indica il <<furto>> dei cloroplasti, organelli minuscoli, ghirigori e verdi, da parte di un protista che li usa per produrre energia. Ma perche mai dovrebbe rubare i cloroplasti altrui un organismo che non fa fotosintesi?
+La risposta sta nell'energia che producono i cloroplasti: infatti, e nel ruolo svolto dai cloroplasti, ovvero la produzione di energia. I cloroplasti, un po' come appropriarsi delle batterie ricaricabili altrui, forniscono una scorta illimitata di energia, purche ci sia un po' di luce (Figura A).
+Chi ruba i cloroplasti?
+Di ladri di cloroplasti ce ne sono parecchi, perche e un fenomeno molto conveniente e sono distribuiti in vari regni. L'esempio migliore e quello delle lumache marine del gruppo Sacoglossa (Figura B). Queste lumache si nutrono di alghe e ne conservano i cloroplasti contenenti la clorofilla. A causa della clorofilla contenuta nei cloroplasti queste lumache sono di un bel colore verde che le aiuta anche a mimetizzarsi nel fondale; la colorazione verde e la conseguenza del fatto che queste lumache si nutrono di alghe e ne trattengono i cloroplasti per nutrirsi (Figura B). Purtroppo, dopo un po' di tempo - da pochi giorni a 10 mesi a seconda delle specie - i cloroplasti muoiono e la lumaca, non essendo in grado di rimpiazzarli, deve quindi tornare a nutrirsi per produrne di nuovi. Un altro esempio di cleptoplastia riguarda una specie di dinoflagellati, un tipo di alga unicellulare in grado di predare altre specie nutrendosi di un protista intera catena alimentare. Alcune specie di dinoflagellati contengono clorofilla ma questi cloroplasti non appartenevano al protista, quindi passano da un'alga unicellulare a un protozoo, e dal protozoo al dinoflagellato. I ricercatori hanno anche scoperto che per mantenere i cloroplasti vivi piu a lungo il protista ciliato conserva in attesa di digerirli anche i nuclei delle criptomonadi in modo che possano produrre le proteine che riparano i cloroplasti del protista necessaria (Figura C).
+Per evitare la degradazione dei cloroplasti alcune specie hanno adottato la strategia della simbiosi: accolgono al loro interno un particolare tipo di alga chiamata zooxantelle che fornisce ai polipi, sino al 90% dell'energia loro necessaria (Figura C). E ben noto: i polipi, gli organismi coloniali che costruiscono i coralli, vivono in simbiosi con le zooxantelle, da cui traggono l'energia necessaria al loro sostentamento.
+Esistono sistemi piu convenienti? Per evitare la degradazione dei cloroplasti alcune specie hanno adottato la strategia della simbiosi: i polipi... [testo ripetuto]. Un esempio di questo tipo di simbiosi e nei coralli: gli organismi coloniali che costruiscono i coralli vivono in simbiosi con le zooxantelle, in cambio dei preziosi prodotti della fotosintesi. Un esempio di predazione e offerto dalla lumaca... [vedi sopra].
+Figura A Il cloroplasto, in questa foto al TEM colorato in verde, e la sede della fotosintesi.
+Figura B Una lumaca Sacoglossa ancorata a un'alga: la colorazione verde e la conseguenza del fatto che questa lumaca si nutre di alghe e ne conserva i cloroplasti contenenti la clorofilla.
+Figura C Le barriere coralline sono ricoperte di polipi che spesso vivono in simbiosi con alghe zooxantelle da cui traggono l'energia necessaria al loro sostentamento.
+
+Rispondi:
+1. In quali cellule si trovano i cloroplasti? Che funzione svolgono?
+2. Che cos'e e da cosa e formato l'ATP? A che cosa serve?
+3. Come e fatto un mitocondrio? Che funzione svolge?
+Scegli le parole:
+1. I cloroplasti presentano pile di sacchetti schiacciati dette creste / grani, formate da stroma / tilacoidi.
+2. La respirazione cellulare avviene nei cloroplasti / mitocondri, organuli in cui avviene la sintesi di ATP / DNA.
+Ora tocca a te: Le foglie di molte piante in autunno cambiano colore e da verdi diventano rosse, gialle o arancioni. Cerca in Rete quali sono le cause e i meccanismi di questo fenomeno e crea una scheda d'approfondimento di massimo 500 battute con almeno un'illustrazione.
+
+A81 [Com'e fatta la cellula]
+
+[Fine trascrizione - tutte le 11 foto trascritte integralmente]
+
