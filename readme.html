@@ -219,8 +219,15 @@ function render(md) {
   closeList();
   return html;
 }
+function cleanTex(md) {
+  return md
+    .replace(/\\\(/g, "").replace(/\\\)/g, "")
+    .replace(/\\mu/g, "\u03BC").replace(/\\alpha/g, "\u03B1").replace(/\\beta/g, "\u03B2")
+    .replace(/Ca\^\{2\+\}/g, "Ca\u00B2\u207A").replace(/H_2O_2/g, "H\u2082O\u2082")
+    .replace(/\br\^3\b/g, "r\u00B3").replace(/\br\^2\b/g, "r\u00B2");
+}
 function show(md, note) {
-  document.getElementById("content").innerHTML = render(md);
+  document.getElementById("content").innerHTML = render(cleanTex(md));
   document.getElementById("source-note").textContent = note;
 }
 var fallback = document.getElementById("readme-fallback").textContent.trim();
